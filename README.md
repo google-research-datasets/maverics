@@ -18,7 +18,6 @@ Check our [paper](https://arxiv.org/abs/2205.01883) for further details.
 
 [CC3M dev](https://storage.googleapis.com/maverics/maverics_cc3m.json) (177KB), generated from [Conceptual Captions](https://github.com/google-research-datasets/conceptual-captions).
 
-
 **Format (.json)**
 <div class="highlight highlight-source-shell"><pre>
 dataset               str: dataset name
@@ -49,6 +48,9 @@ NAACL 2022.
   year = {2022},
 }
 </pre></div>
+
+## Related Datasets
+A multilingual extension of this approach and its accompanied dataset MaXM can be found on [this page](https://github.com/google-research-datasets/maxm/).
 
 ## Contact Us
 
